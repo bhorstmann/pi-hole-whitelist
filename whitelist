@@ -1,0 +1,18 @@
+# Domains for home
+##################
+device-metrics-us.amazon.com
+
+# Domains for work
+##################
+
+# NewRelic
+alerts.newrelic.com
+api.newrelic.com
+js-agent.newrelic.com
+login.newrelic.com
+mobile-collector.newrelic.com
+rpm.newrelic.com
+staging-insights-collector.newrelic.com
+
+# Sentry
+sentry.io
